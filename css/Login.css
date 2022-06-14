@@ -1,0 +1,43 @@
+.form-group{
+    margin: auto;
+    text-align: center;
+    width: 450px;
+    margin-top: 150px;
+    border: #efebeb solid 1px;
+    box-shadow: 5px 10px 5px gray;
+    background:whitesmoke;
+}
+
+.input-group{
+    text-align: center;
+    
+    padding: 0px 40px 0px 50px;
+}
+
+.inp1{
+    padding-top: 70px;
+    padding-bottom: 25px;
+}
+
+.inp2{
+    padding-bottom: 50px;
+}
+.inp3{
+    padding-bottom: 120px;
+    padding-left: 100px;
+}
+
+.btn{
+    width: 200px;
+    box-shadow: 1px 1px 10px 1px rgb(170, 183, 192) inset;
+}
+
+.form-control{
+    box-shadow: 1px 1px 5px 1px rgb(11, 61, 92) inset;
+}
+
+.h{
+    color: rgb(11, 61, 92);
+    padding-top:50px;
+    text-shadow: 5px 10px 5px gray;
+}
